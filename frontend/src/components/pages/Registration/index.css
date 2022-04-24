@@ -1,0 +1,22 @@
+/* Registration Section */
+.registerForm {
+    font-size: 21px;
+  }
+  
+.registerForm input {
+  font-size: 21px;
+}
+  
+.registerForm .form-floating textarea {
+  font-size: 21px;
+}
+  
+.registerForm .form-floating {
+  margin-bottom: 38px;
+}
+
+.registerForm .form-select {
+  font-size: 17px;
+}
+
+  

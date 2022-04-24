@@ -1,0 +1,23 @@
+/* News Home Page */
+.news {
+    margin: 20px 10px;
+  }
+  
+  .news:hover {
+    cursor: pointer;
+    background-color: rgb(0, 148, 68);
+  }
+  
+  .news:hover span {
+    color: black;
+  }
+  
+  .name-card {
+    margin-top: -100px;
+    z-index: 999;
+    margin-bottom: 50px;
+  }
+  
+  .nav.nav-pills .nav-link.active {
+    color: #fff !important;
+  }
